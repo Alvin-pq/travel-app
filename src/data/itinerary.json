@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "day": 1,
+    "time": "10:00 AM",
+    "title": "Arrive in Tokyo",
+    "location": "Narita Airport",
+    "type": "spot",
+    "cost": "$0"
+  },
+  {
+    "id": "2",
+    "day": 1,
+    "time": "12:30 PM",
+    "title": "Ramen Lunch",
+    "location": "Ichiran Ramen",
+    "type": "food",
+    "cost": "$15"
+  },
+  {
+    "id": "3",
+    "day": 1,
+    "time": "03:00 PM",
+    "title": "Check-in Hotel",
+    "location": "Shinjuku Granbell Hotel",
+    "type": "spot",
+    "cost": "$0"
+  },
+  {
+    "id": "4",
+    "day": 2,
+    "time": "09:00 AM",
+    "title": "Meiji Shrine",
+    "location": "Shibuya City",
+    "type": "spot",
+    "cost": "$0"
+  },
+  {
+    "id": "5",
+    "day": 2,
+    "time": "11:30 AM",
+    "title": "Harajuku Shopping",
+    "location": "Takeshita Street",
+    "type": "spot",
+    "cost": "$50"
+  }
+]
